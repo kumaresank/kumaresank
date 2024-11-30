@@ -38,4 +38,4 @@
 ### Connect with me:
 
 [<img alt="Portfolio" width="50px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" />](https://kumaresank.github.io/)
-[<img alt="LinkedIn" width="26px" src="https://static.licdn.com/aero-v1/sc/h/eahiplrwoq61f4uan012ia17i" />](https://www.linkedin.com/in/tkkumaresan)
+[<img style="vertical-align: 10" alt="LinkedIn" width="25px" src="https://static.licdn.com/aero-v1/sc/h/eahiplrwoq61f4uan012ia17i" />](https://www.linkedin.com/in/tkkumaresan)
