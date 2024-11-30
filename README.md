@@ -28,14 +28,14 @@
 
 ### Tools
 
-<img align="left" alt="GitHub" width="50px" src="https://github.com/fluidicon.png" />
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" />
+<img alt="GitHub" width="50px" src="https://github.com/fluidicon.png" />
+<img alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" />
 
 <br style="clear: both;" />
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="26px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" />](https://kumaresank.github.io/)
-[<img align="left" alt="LinkedIn" width="26px" src="https://static.licdn.com/aero-v1/sc/h/eahiplrwoq61f4uan012ia17i" />](https://www.linkedin.com/in/tkkumaresan)
+[<img alt="Portfolio" width="26px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" />](https://kumaresank.github.io/)
+[<img alt="LinkedIn" width="26px" src="https://static.licdn.com/aero-v1/sc/h/eahiplrwoq61f4uan012ia17i" />](https://www.linkedin.com/in/tkkumaresan)
