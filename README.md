@@ -38,10 +38,3 @@
 <img alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" />
 </div>
-
-<br style="clear: both;" />
-
-### Connect with me:
-
-[<img alt="Portfolio" width="50px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" />](https://kumaresank.github.io/)
-[<img alt="LinkedIn" width="25px" style="vertical-align: 10px;" src="https://static.licdn.com/aero-v1/sc/h/eahiplrwoq61f4uan012ia17i" />](https://www.linkedin.com/in/tkkumaresan)
